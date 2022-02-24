@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of an argument shewing that a standing army is inconsistent with a free government, and absolutely destructive to the constitution of the English monarchy with remarks on the late published list of King James's Irish forces in France.</title>
+            <title>An argument shewing, that a standing army is inconsistent with a free government. Part 2</title>
+            <author>Moyle, Walter, 1672-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51563</idno>
+            <idno type="STC">Wing M3030</idno>
+            <idno type="STC">ESTC R17336</idno>
+            <idno type="EEBO-CITATION">11861892</idno>
+            <idno type="OCLC">ocm 11861892</idno>
+            <idno type="VID">50024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 502:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of an argument shewing that a standing army is inconsistent with a free government, and absolutely destructive to the constitution of the English monarchy with remarks on the late published list of King James's Irish forces in France.</title>
+                  <title>An argument shewing, that a standing army is inconsistent with a free government. Part 2</title>
+                  <author>Moyle, Walter, 1672-1721.</author>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first part, entitled, "An argument shewing, that a standing army is inconsistent with a free government," was written by John Trenchard and Walter Moyle.  It is often thought Trenchard also assisted in the second part; however attributed solely to Moyle by BM, Wing, and Halkett and Laing.</note>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Standing army.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50024:1"/>
+            <p>THE SECOND PART OF AN ARGUMENT, Shewing, that a Standing Army Is inconſiſtent with A Free Government, and abſolutely deſtructive to the Conſtitution of the Engliſh Monarchy.</p>
+            <p>With <hi>Remarks</hi> on the late publiſhed LIST of King <hi>JAMES</hi>'s Iriſh Forces in <hi>France.</hi>
+            </p>
+            <q>Proximus ardet Ucalegon. <bibl>
+                  <hi>Virgil. Aen.</hi> l. <hi>2.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="preface">
+               <pb facs="tcp:50024:2" rendition="simple:additions"/>
+               <pb n="iii" facs="tcp:50024:2"/>
+               <head>The Preface.</head>
+               <p>THE following Conſiderations were writ<g ref="char:EOLhyphen"/>ten, and deſigned to be publiſhed ſoon after the <hi>Argument</hi> againſt a <hi>Stand<g ref="char:EOLhyphen"/>ing Army</hi> appeared. But a Report being gi<g ref="char:EOLhyphen"/>ven out, That the Advocates for a <hi>Stand<g ref="char:EOLhyphen"/>ing Army</hi> would do Wonders on that Subject, 'twas thought convenient to expect Their Atchievements, that if their Succeſs ſhould prove in any meaſure anſwerable to their Confidence, the Publick might have been no farther importuned about the Matter. I think I may juſtly ſay, This Mountain, after all its Pangs and Convulſions, has brought forth no<g ref="char:EOLhyphen"/>thing but a ridiculous Mouſe. And therefore I ſhall ſubmit to the Judgment of all impartial Engliſhmen, what is here ſaid in confirmation of <hi>the Argument:</hi> Which I hope will be of the greater weight, becauſe taken from our own Hiſtory.</p>
+               <pb facs="tcp:50024:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="iii" facs="tcp:50024:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="argument">
+               <pb facs="tcp:50024:4"/>
+               <pb n="5" facs="tcp:50024:4"/>
+               <head>
+                  <hi>An Argument,</hi> &amp;c. PART II.</head>
+               <p>WE have much talk of a Standing Army which is to be in time of Peace, but no body can tell us what they are to do: We know their uſual Commiſſion is to kill and ſlay; But where is the Enemy? Men talk of this with as much certainty, as if they were already eſta<g ref="char:EOLhyphen"/>bliſhed. Which is yet the more ſurprizing, if we reflect on one of the Articles of Charge a<g ref="char:EOLhyphen"/>gainſt the late King <hi>James.</hi> It is plain therefore that all this is Practice, and that theſe bold Fore<g ref="char:EOLhyphen"/>ſtallers of Parliaments would fain Enact that without Doors, which from the Foundation of this Kingdom was never attempted within.</p>
+               <p>Theſe Gentlemen are alſo pleaſed to affirm it neceſſary to have a vaſt Body of Forces continu<g ref="char:EOLhyphen"/>ed on foot: Whereas the firſt Project we find for a Standing Army, in the Year 1629, requires on<g ref="char:EOLhyphen"/>ly three thouſand Foot in conſtant Pay, to bridle the Impertinence of Parliaments; to overaw the Parliament and Nation; to make Edicts to be
+<pb n="6" facs="tcp:50024:5"/>
+Laws; to force upon the People vaſt numbers of Exciſes; and in ſhort, to overturn the whole Frame of this noble Engliſh Government. Who<g ref="char:EOLhyphen"/>ever has a mind to peruſe that dangerous Scheme in <hi>Ruſhworth</hi>'s <hi>Appendix,</hi> pag. 12. and what he ſays of it in his Hiſtory, will ſee enough.</p>
+               <p>I marvel whoſe Advocates theſe Men are in this Matter: For I am ſatisfied none of thoſe brave Engliſhmen, who have fought honourably a<g ref="char:EOLhyphen"/>broad, ever meant, when the Service was over, to be a Charge, Burden and Terror at home to their own Country; nor to disfranchiſe us of two of our Native Liberties, Freedom from Martial Law, and Billeting of Souldiers; and thereby directly to take away from themſelves, as well as from their Fellow-ſubjects, one half of the Be<g ref="char:EOLhyphen"/>nefit of the <hi>Petition of Right,</hi> and in conſequence the other half too, The Freedom of their Perſons and Eſtates.</p>
+               <p>I ſhall therefore conſider of a Standing Army, without minding who is for it, or who is againſt it in this Age, and only ſhew what are like to be the Conſequences of it in future Reigns. And I have reaſon to do thus, becauſe if the Parliament give the beſt King a Standing Army, the worſt King ſhall hereafter claim and have it.</p>
+               <p>We have many Inſtances where Parliaments in a kind Fit, by one ſudden Grant, have entail<g ref="char:EOLhyphen"/>ed a World of laſting Miſery upon the Nation. I will mention but one; The Kingdom was newly delivered from a bitter Tyrant, I mean King <hi>John,</hi> and had likewiſe got rid of their per<g ref="char:EOLhyphen"/>fidious Deliverer the Dauphin of <hi>France;</hi> who
+<pb n="7" facs="tcp:50024:5"/>
+after the Engliſh had accepted him for their King, had ſecretly vowed their Extirpation, which the<note n="*" place="bottom">
+                     <hi>Daniel,</hi> pag. 148.</note> 
+                  <hi>Viſcount of Melun,</hi> a Frenchman, being at the point of Death, diſcloſed; they were more<g ref="char:EOLhyphen"/>over bleſſed with a young Prince, of whom they conceived mighty Hopes, in the Hands of a very wiſe and honeſt Council. This was Life from the Dead, and a true Revolution. In the Tranſ<g ref="char:EOLhyphen"/>port of all this Happineſs, about the 7th Year of this new King <hi>Henr.</hi> 3. the Parliament granted him the Wardſhip of their Heirs. <hi>Knighton,</hi> pag. 2430, records it thus; <hi>Magnates Angliae conceſſerunt Regí Henrico Wardas Haeredum &amp; terrarum ſuarum, quod fuit initium multo<g ref="char:EOLhyphen"/>rum malorum in Anglia.</hi> He ſays this Grant was the beginning of many Miſchiefs in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> In the Year 1222 theſe Miſchiefs had their Riſe and Beginning; but where they ended, no old Chronicle could ever tell: For after this intolerable Bondage had continued above four hundred Years, the Nation at laſt ranſomed them<g ref="char:EOLhyphen"/>ſelves in our time by giving the Exciſe. It is a grief to all after Ages to find a Parliament ſo mi<g ref="char:EOLhyphen"/>ſerably overſeen, for they both miſtook their Man; and the hopeful Prince proved as bad as if the very Soul of his Father <hi>John</hi> had paſſed into him, which is the common Character gi<g ref="char:EOLhyphen"/>ven him by all the Antient Hiſtorians: And then they utterly miſtook the Nature of the Grant, and did not foreſee what a Miſery and Vaſſalage it might prove to their Poſterity. I appeal to all
+<pb n="8" facs="tcp:50024:6"/>
+the Antient Nobility and Gentry, who know any thing of the Affairs of their own Families, whether it was ſo or not: And yet theſe were honeſt and brave Men, who would rather have died than have been the Authors of ſo much Miſchief: but they were led by falſe Appear<g ref="char:EOLhyphen"/>ances, that by having the King Guardian of their Children, they could not be wronged; they would have the beſt Education at Court, ſtand fair for future Preferment, and that a happier Pro<g ref="char:EOLhyphen"/>viſion for their Poſterity could not be made: Nei<g ref="char:EOLhyphen"/>ther could it, for the very Learning which this inſtructive Paſſage has given to their late Poſte<g ref="char:EOLhyphen"/>rity, countervails all the Miſchiefs that are paſt.</p>
+               <p>But the Advocates for a Standing Army tell us, That tho the Wards by being annexed to the Crown, and ſo becoming a Prerogative, could not be parted with, which was the cauſe of the long continuance of that Miſchief, after it was known and felt to be ſo; yet all this is cured by making the Act Temporary, and ſetling a Standing Army only during his Majeſty's Reign, or for Years, or they know not how. I find they have a great mind to their Cucumber, for they are content to have it dreſſed and pickled any way.</p>
+               <p>I anſwer, That ſucceeding Princes, if they find an Army, will keep it, and will not trouble them<g ref="char:EOLhyphen"/>ſelves whether the Law be Temporary or Perpe<g ref="char:EOLhyphen"/>tual. A plain Inſtance we have of this in the Cu<g ref="char:EOLhyphen"/>ſtoms: For tho Tunnage and Poundage, and the other Impoſitions, are a Subſidy and free Gift, and the King's Anſwer to the Bill thanks the
+<pb n="9" facs="tcp:50024:6"/>
+Subjects for their Good-wills. And tho Parlia<g ref="char:EOLhyphen"/>ments have always uſed ſuch Cautions and Limi<g ref="char:EOLhyphen"/>tations in thoſe Grants, as might prevent any Claim, and heretofore limited them to a ſhort time, as for a Year or two; and if they were con<g ref="char:EOLhyphen"/>tinued longer, they have directed a certain ſpace of Ceſſation, or Intermiſſion, that ſo the Right of the Subject might be the more evident; at other times they have been granted upon occaſion of War for a certain number of Years, with Provi<g ref="char:EOLhyphen"/>ſo, that if the War were ended in the mean time, then the Grant ſhould ceaſe; and of courſe they have been ſequeſtred into the hands of ſome Sub<g ref="char:EOLhyphen"/>jects for the guarding of the Seas:</p>
+               <p>Notwithſtanding all this, tho the Parliament ſo carefully guarded their Grants, yet King <hi>Charles</hi> the Firſt took this Subſidy without any Grant at all, for ſixteen Years together; tho ſe<g ref="char:EOLhyphen"/>veral Parliaments in the mean time forbad the paiment of it, and voted all thoſe to be publick Enemies that did not refuſe it. The like did his Son the late King <hi>James</hi> till his Parliament gave it him: and in his firſt Speech to them he de<g ref="char:EOLhyphen"/>manded it as his own, by the name of <hi>my Reve<g ref="char:EOLhyphen"/>nue.</hi> And why then ſhall not another Prince come and ſay the ſame, Give me my Army, if he ever have a Parliament to ask? To limit a Prince with Laws where there is an Army, is to bind <hi>Sampſon</hi> with his Locks on.</p>
+               <p>Having made appear that an Army now will be an Army always, I come in the next place to ſhow what the Conſequences of it will be, both
+<pb n="10" facs="tcp:50024:7"/>
+by the Experience of former Ages, and by the Nature of the Thing.</p>
+               <p>In all Ages and parts of the World, a Stand<g ref="char:EOLhyphen"/>ing Army has been the never-ſailing Inſtrument of enſlaving a Nation; which <hi>Richard</hi> the Se<g ref="char:EOLhyphen"/>cond, (<hi>Walſing.</hi> pag. 354.) compaſſing to do here in <hi>England,</hi> accordingly uſed the Means. For the Safety of his Perſon, he aſſembled together <hi>(multos Malefactores)</hi> a great number of profli<g ref="char:EOLhyphen"/>gate Perſons out of the County of <hi>Cheſter,</hi> who ſhould keep watch and ward continually about him in their turns. This Life-guard of his con<g ref="char:EOLhyphen"/>ſiſted of four thouſand Archers; who commit<g ref="char:EOLhyphen"/>ted ſuch Outrages amongſt the People, overawed the Parliament, and aided him in his Tyrannical Proceedings in ſuch a manner, as could not be believed, if it were not witneſſed by a whole Parliament, and his own Confeſſion,<note n="*" place="bottom">Item, Tempore quo idem Rex in Parliamento ſuo fecit adjudicari Ducem Glouceſtriae, &amp; Comites Arundell &amp; War<g ref="char:EOLhyphen"/>wick ut liberius poſſit exercere Crudelitatem in eoſdem, &amp; voluntatem ſuam injurioſam in aliis adimplere, ſibi attraxit multitudinem magnam Malefactorum de Comitatu Ceſ<g ref="char:EOLhyphen"/>triae, quorum quidam cum tranſeuntes per Regnum, tam infra Regis hoſpitium quam extra, Ligeos Regni crudeliter occiderunt, &amp; quoſdam verberaverunt, vulneraverunt, &amp; de<g ref="char:EOLhyphen"/>pradarunt bona populi, &amp; pro ſuis victualibus ſolvere recu<g ref="char:EOLhyphen"/>ſarunt, &amp; Uxores &amp; alias mulieres rapuerunt, &amp; violave<g ref="char:EOLhyphen"/>runt, &amp; licet ſuper eorum hujuſmodi exceſſibus graves que<g ref="char:EOLhyphen"/>rimoniae deferebantur ad audientiam dicti Domini Regis; Idem tamen Rex ſuper his juſtitiam, ſeu remedium facere non curavit, ſed favebat iiſdem gentibus in maleficiis eo<g ref="char:EOLhyphen"/>rum; Conſidens in iis &amp; eorum praeſidio, contra quoſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> alios Regni, propter quod fideles regni ſui magnam commo<g ref="char:EOLhyphen"/>tionis &amp; indignationis materiam habuerunt. <hi>Decem. Scrip. Col.</hi> 2748.</note> 
+                  <hi>Artic.</hi> the 5th.</p>
+               <p>
+                  <pb n="11" facs="tcp:50024:7"/>In ſhort, tho many of thoſe <hi>Cheſhire</hi>-men plundered and lived upon Free-quarter; beat, wounded, killed and raviſhed where-ever they came: Yet becauſe they enabled him to execute all his cruel and arbitrary Deſigns in Parliament, he countenanced them in all their Crimes, as con<g ref="char:EOLhyphen"/>fiding in them, and truſting in their defence of him againſt all the Realm beſide: For which cauſe all the Lieges of his Realm had great mat<g ref="char:EOLhyphen"/>ter of Commotion and Indignation.</p>
+               <p>This Parliament was in the 21ſt of his Reign, and in it the Frame of this Engliſh Government was quite deſtroyed. I need not ſhew in what Particulars, for that is done already by <hi>Bacon,</hi> and many other Lawyers. But in ſhort, the King was made abſolute, and the whole Power of Parliament, which might remedy things after<g ref="char:EOLhyphen"/>wards, was given up: For it was made Trea<g ref="char:EOLhyphen"/>ſon for any Man to endeavour to repeal any of the Arbitrary Conſtitutions that were then made.</p>
+               <p>I am even aſhamed, when I obſerve former Princes ſo zealous for oppreſſing and wronging a Nation, and ſo bent upon it, to reflect how cold and remiſs many Subjects have been in all times, and how unconcerned to preſerve their indiſpen<g ref="char:EOLhyphen"/>ſible Rights, which are the very Being both of themſelves and their Poſterity: To ſee King <hi>John</hi> ready to pawn his Soul, and offer <hi>Miramo<g ref="char:EOLhyphen"/>lim</hi> the Emperor of <hi>Morocco</hi> to turn Turk, and to make his Kingdom tributary to him only, to get his Aſſiſtance to enſlave this Nation, and Sub<g ref="char:EOLhyphen"/>jects to take no care of their Engliſh Liberties;
+<pb n="12" facs="tcp:50024:8"/>
+which certainly are proved to be worth keeping by the eagerneſs of bad Princes to take them a<g ref="char:EOLhyphen"/>way.</p>
+               <p>But to return to our <hi>Cheſhire</hi>-men, and to the Parliament which they had in charge, <hi>Sagitta<g ref="char:EOLhyphen"/>riis inumerabilibus vallato,</hi> walled about with an infinite number of Archers, as it is deſcribed <hi>Ar<g ref="char:EOLhyphen"/>tic.</hi> 4. The Parliament was hereby ſo overawed, that in what they did they were <hi>Ma<g ref="char:EOLhyphen"/>gis timore Regis ducti quam mentium ratione,</hi>
+                  <note place="margin">Walſing.</note> led more by fear of the King than their Conſciences; their Souls were not their own. And beſides the Standing Awe and Ter<g ref="char:EOLhyphen"/>ror which this Guard was to both Houſes during their Seſſion, there happened a Paſſage at laſt which put them all into a very great Fright: It is thus ſet down by <hi>Stow,</hi> p. 316. <q>And then licence being had to depart, a great ſtir was made, as is uſed; Whereupon the King's Archers, in num<g ref="char:EOLhyphen"/>ber 4000, compaſſed the Parliament-Houſe (thinking there had been in the Houſe ſome Broil by fighting) with their Bows bent, their Arrows notched, and drawing ready to ſhoot, to the terror of all that were there; but the King herewith coming, pacified them.</q>
+               </p>
+               <p>Theſe Men did the King ſuch acceptable Ser<g ref="char:EOLhyphen"/>vice, that he could do no leſs than make ſome return to his Implements, which he did in ho<g ref="char:EOLhyphen"/>nouring <hi>Cheſhire</hi> for their ſakes. In this Seſſion of Parliament he made it a Principality, <hi>Cap.</hi> 9. and himſelf Prince of <hi>Cheſter:</hi> And ſo as <hi>Bacon</hi> ys, <hi>Counties go up, and Kingdoms go down:</hi> This had never riſen again but by a happy Revo<g ref="char:EOLhyphen"/>lution,
+<pb n="13" facs="tcp:50024:8"/>
+which followed in leſs than two Years. So much for the <hi>Cheſhire</hi>-men.</p>
+               <p>But what ſignify the Proceedings of this vil<g ref="char:EOLhyphen"/>lanous Crew to an Army, who are all of them Men of Honour, and perhaps in Parliament-time ſhall be ordered a hundred miles off? theſe can<g ref="char:EOLhyphen"/>not wall in, ſurround, begirt and beſet a Parlia<g ref="char:EOLhyphen"/>ment, nor conſequently hinder it from being a Free Parliament. That I deny, for I hope ſuch an Army may differ in Judgment, and can peti<g ref="char:EOLhyphen"/>tion a Parliament at that diſtance; and we very well know that their Deſires are always Com<g ref="char:EOLhyphen"/>mands. The Parliament in 41, long before there was any breach with the King, were in a fair way to have been petitioned out of doors by an Army 150 miles off, tho there was the Clog of a Scotch Army at the heels of them, who upon the leaſt Motion would certainly have followed. And if <hi>Denzill Holles</hi> had not locked the Doors, and com<g ref="char:EOLhyphen"/>municated the Matter to the Houſe, who imme<g ref="char:EOLhyphen"/>diately fell upon the Officers that were Members, Colonel <hi>Aſhburnham, Willmot, Pollard,</hi> &amp;c. and quaſhed the Deſign, it had brought the whole Nation into great Confuſion. The Petition of an Army is like that of the Corniſh-men in <hi>Henry</hi> the Seventh's Time; it is always a ſtrong Peti<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Nay, an Army could not go out in this hum<g ref="char:EOLhyphen"/>ble way to over-rule a Parliament. If they are in being, they influence; and in <hi>Ceſar</hi>'s eaſy way they conquer, by looking on. The very Reputati<g ref="char:EOLhyphen"/>on of a Force to back them, will make all Court-Propoſals ſpeak big, tho never ſo contrary to
+<pb n="14" facs="tcp:50024:9"/>
+the Intereſt of the Nation. For there is no de<g ref="char:EOLunhyphen"/>bating nor diſputing againſt Legions. It will tempt them to do many things they durſt not otherwiſe think of: What is much out of our reach, rarely is the Object of our Thoughts; but the Facility of Execution is generally the firſt Motives to an Attempt. Now it is abundantly the Intereſt of Court-Flatterers to live under a corrupt Reign. Then Bribes and Confiſcations fill their Coffers. No Man's Wife or Daughter is free from their Luſt, or Eſtate from their Ava<g ref="char:EOLhyphen"/>rice. They extort Preſents from the Nobility, Goods from the Tradeſmen, and Labour from the Poor. In ſhort, all is their own. And 'tis to be feared, theſe Gentlemen (unleſs they have more Vertue than uſually falls to their ſhare) will put Princes upon ſuch Counſels as promote their own Advantage. They will tell them how mean it is to be awed by a few Country Gentle<g ref="char:EOLhyphen"/>men, when all the Kings in <hi>Europe</hi> beſides are got out of Pupilage, as <hi>Lewis</hi> XI called it. They will fill their heads with a thouſand trifling Jea<g ref="char:EOLhyphen"/>louſies of Monſters, Commonwealths, and ſuch like Bug-bears: and it hath been difficult even for the wiſeſt Princes to free themſelves from this ſort of Cattle. <hi>Falſe Prophets ſhall ariſe that ſhall deceive even the Elect.</hi> Nothing but the Fear of Puniſhment, and the being made a Sacrifice to the Peoples juſt Revenge, can make ſuch Men ho<g ref="char:EOLhyphen"/>neſt: But if they have an Army to protect them, all theſe Conſiderations are laid aſide, and all Ar<g ref="char:EOLhyphen"/>guments are anſwered in a word, <hi>The King has an Army. The King has an Army,</hi> ſtops all Mouths,
+<pb n="15" facs="tcp:50024:9"/>
+and cuts off all Reply. It is as if it ſhould be ſaid, Set your hearts at reſt, for the King has all Power in his hands, and you have none: He has all your Eſtates, Lives and Liberties, under his Girdle: Slaves, and talk! The King has an Army, is a confuting Anſwer to every thing but a better Army, which Thanks be to God and his preſent Majeſty we have found. But as we are not to live upon Miracles, ſo we are not to tempt Dangers.</p>
+               <p>I have ſtayed the longer upon this Point, in ſhewing how inconſiſtent an Army is with the Freedom of Parliament, becauſe they being the Keepers of our Engliſh Liberties, can ill perform that Office, when they have parted with their Power into other hands. They are the laſt Re<g ref="char:EOLhyphen"/>ſort of the Subject for the Redreſs of their Grie<g ref="char:EOLhyphen"/>vances. But how ſhall they relieve the poor <hi>Royſton</hi>-men, for inſtance, from the Oppreſſion and Inſolences of the Souldiery, when perhaps they ſhall be ſubject to the like themſelves? The Projectors are aware of this terrible Inconveni<g ref="char:EOLhyphen"/>ence, and therefore they propoſe an Expedient, That it ſhall be the King's Army, but the Par<g ref="char:EOLhyphen"/>liament ſhall have the paying of them; whereby they ſhall be as much the Parliament's humble Servants, as the Parliament their proper Maſ<g ref="char:EOLhyphen"/>ters.</p>
+               <p>Much at one I believe. For the Long Parlia<g ref="char:EOLhyphen"/>ment had not ſuch a King and Parliament Army as this, but an Army that was all their own, their Creatures, as the Court-word is; raiſed, liſted, commiſſioned, and paid wholly by them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="16" facs="tcp:50024:10"/>
+and not in Partnerſhip; and that had man<g ref="char:EOLhyphen"/>fully fought all their Battels: And yet upon the firſt Diſtaſte they were pleaſed to take, they diſ<g ref="char:EOLhyphen"/>treſſed their own Maſters, and with a high hand forced them to baniſh eleven of their principal Members, <hi>Denzil Holles,</hi> Sir <hi>Philip Stapylton, Glyn,</hi> and ſuch other great Men. Sir <hi>Philip Sta<g ref="char:EOLhyphen"/>pylton</hi> died in his Baniſhment. At another time they would not ſuffer near a hundred Members to enter into the Houſe, whom they thought not well affected to the Buſineſs then in hand, and at the ſame time evil intreated and impriſoned about forty Members. This they called purging the Houſe. After they had thus handled them at ſe<g ref="char:EOLhyphen"/>veral times, in concluſion, the Officers came and reprimanded the Houſe, bid take away that Fool's Bawble the Mace, violently pulled the Speaker out of the Chair, drove out the Mem<g ref="char:EOLhyphen"/>bers, and locked up the Doors, and ſo good night to the Parliament. The Wiſdom of that Parlia<g ref="char:EOLhyphen"/>ment may have been very great, but it was Non-ſenſe for them to think, that an Army does not know its own Strength. For without dear-bought Experience any body may know before<g ref="char:EOLhyphen"/>hand what will be the natural Conſequences of a Standing Army. From the day you ſet them up, you ſet up your Maſters; you put your ſelves wholly into their hands, and are at their diſcreti<g ref="char:EOLhyphen"/>on. It is the Conqueſt of the Nation in the ſi<g ref="char:EOLhyphen"/>lenteſt, ſhorteſt, and ſureſt way. They are able to diſpoſe of your Lives and Eſtates at Will and Pleaſure: And what can a foreign Conqueror do more? If after this we live and poſſeſs any thing,
+<pb n="17" facs="tcp:50024:10"/>
+'tis becauſe they let us: and how long that ſhall be, neither we, no nor they themſelves, know.</p>
+               <p>Nay, in many reſpects an authorized Standing Army is far worſe than a foreign Invaſion, and a Conqueſt from abroad. For there we have a chance for it: but this is a Conqueſt in cold Blood, which may not be reſiſted. And we loſe the inſeparable Rights of the Conquered, which is to reſcue and deliver themſelves, and to throw off the Yoke as ſoon as they can. It is likewiſe a great Aggravation of our Miſery, to be enſlaved at our own Coſt and Charges: Beſides the bitter Reſentments of Unkindneſs and Breach of Truſt, if it be done by thoſe who ought to protect us, and provide better for us; at leaſt ſhould not leave us in a worſe Condition than they found us. But above all, if we contribute to our own Thral<g ref="char:EOLhyphen"/>dom by our Folly, Flattery and little ſelf-ſeeking; if the Deſtruction of us and our Poſterity be of our ſelves, that Reflection hereafter will have a Sting in it; and it will not be enough to ſay, Who would have thought it?</p>
+               <p>Now in being over-powered and conquered by a Foreign Enemy, we contract none of this Guilt, and ſuffer it as a bare Calamity. But there is no great fear of that, for the Duke <hi>de Rohan</hi> is our Guarantee that we cannot be conquered from abroad; who in a ſpiteful Deſcription of <hi>England</hi> ſays, it is a great Animal that can be deſtroyed by nothing but it ſelf. Every body muſt die when their time is come: and Empires as well as private Men muſt ſubmit to Time and Fate; Go<g ref="char:EOLhyphen"/>vernments have their Infancy, their Meridian,
+<pb n="18" facs="tcp:50024:11"/>
+and their Decay; and the Preludes to their De<g ref="char:EOLhyphen"/>ſtruction are generally Luxury, Pride, Sloth, Pro<g ref="char:EOLhyphen"/>digality, Cowardice, Irreligion, Self-intereſt, and an univerſal Neglect of the Publick. God grant this be not the Condition of a Nation I know.</p>
+               <p>Well, 'tis all one; for let a Standing Army be what it will, ſtill we muſt have it for this unan<g ref="char:EOLhyphen"/>ſwerable Reaſon, <hi>viz. The Defence of the Nation from a ſudden Invaſion: for unleſs,</hi> ſay they, <hi>you have an Army to lie leiger, you are liable to be over<g ref="char:EOLhyphen"/>run by a foreign Enemy e're you are aware; and you will ſhew leſs Wit than</hi> Aeſop<hi>'s Rhinoceros; you will have your Men to raiſe, and your Teeth to whet, when you ſhould uſe them.</hi> This Thought I confeſs is very natural and obvious, and therefore could not poſſibly eſcape our wiſe Forefathers; yet we cannot learn that ever they put it in practice, which is a great ſign they did not like it. No, we are well aſſured that they would not have ſuffered a Mercenary Army to defend the Nation if they would have done it <hi>gratis.</hi> They would rather have miſtruſted it would double the Inva<g ref="char:EOLhyphen"/>ſion, and make it as big again as it was. I do not ſpeak this by gueſs, but have it from the wiſe Sir <hi>Robert Cotton,</hi> who being conſulted, 3 <hi>Caroli,</hi> in a difficult State of Affairs, amongſt other things gave this Advice at the Council-Table: <hi>Ruſh<g ref="char:EOLhyphen"/>worth,</hi> pag. 469. <hi>There muſt be, to withſtand a Fo<g ref="char:EOLhyphen"/>reign Invaſion, a proportion of Sea and Land Forces. And it is to be conſidered, that no March by Land can be of that ſpeed to make head againſt the landing of an Enemy: Then that follows, That there is no ſuch Prevention as to be Maſter of the Sea.</hi>
+               </p>
+               <p>
+                  <pb n="19" facs="tcp:50024:11"/>
+                  <hi>For the Land Forces, if it were for an offenſive War, the Men of leſs Livelihood were beſt ſpared; and we uſed formerly to make ſuch Wars</hi> Purgamenta Reipublicae, <hi>if we made no farther Purchaſe by it. But for the Safety of the Commonwealth, the Wiſ<g ref="char:EOLhyphen"/>dom of all times did never intruſt the Publick Cauſe to any other than to ſuch as had a Portion in the Publick Adventure. And that we ſaw in eighty eight, when the Care of the Queen and of the Coun<g ref="char:EOLhyphen"/>cil did make the Body of that large Army no other than of the Trained Bands.</hi>
+               </p>
+               <p>In the ſame Advice to the King he lets him know how the People reſented his keeping up an Army in the Winter, tho we were then in War both with <hi>France</hi> and <hi>Spain.</hi> The words are theſe:</p>
+               <p>
+                  <hi>And the dangerous Diſtaſtes to the People are not a little improved by the unexampled Courſe, as they conceive, of retaining an Inland Army in Winter Seaſon, when former Times of general Fear, as in eighty eight, produced none ſuch; and makes them in their diſtracted Fears conjecture idly, it was raiſed wholly to ſubject their Fortunes to the Will of Power rather than of Law, and to make good ſome farther Breach upon their Liberties and Freedoms at home, rather than defend us from any Force abroad.</hi> And tells the King the Conſequences of theſe Jealou<g ref="char:EOLhyphen"/>ſies is worthy a prudent and preventing Care.</p>
+               <p>But <hi>what ſignify the Proceedings of former Ages to us?</hi> ſay the Projectors, <hi>the World is ſtrangely altered, and the Power of</hi> France <hi>is become ſo formi<g ref="char:EOLhyphen"/>dable, that it can never be oppoſed in the</hi> Elizabeth <hi>way.</hi> They ſtill keep up an Army of three or four hundred thouſand Men, and how ſhall us
+<pb n="20" facs="tcp:50024:12"/>
+defend our ſelves againſt all thoſe, without ten or fifteen thouſand diſciplined Troops?</p>
+               <p>I think the Author of the <hi>Argument,</hi> page 18 and 19, hath ſufficiently ſhewed the Difficulty, if not Impoſſibility, of a Foreign Invaſion, whilſt we are ſuperior at Sea; the great improbability the French King ſhould engage in ſuch a Deſign, and much greater he ſhould ſucceed in it. But that we may for ever lay this Goblin, we will admit our Fleets to be kidnapp'd by an unlucky Wind, whilſt the French land twenty thouſand Men in our Country. Tho in gratitude for this Conceſſion, I hope my Adverſaries will grant that their Fleet cannot get back again without our meeting with them, (ſince the ſame Wind that carries them home, will carry us out); or if they will not be ſo good-natur'd as to allow this, I will undertake for them (for we live in an under<g ref="char:EOLhyphen"/>taking Age) that they will agree we ſhall inter<g ref="char:EOLhyphen"/>cept their Supplies. Then the Caſe is thus, That twenty thouſand Men, of which few can be Horſe, are landed in <hi>England,</hi> without any hu<g ref="char:EOLhyphen"/>mane probability of being ſupplied from abroad.</p>
+               <p>I ſay, this Army ſhall never march twenty miles into the Country; for they cannot put themſelves in a marching poſture in leſs than a fortnight or three weeks; and by that time we may have 100000 Militia drawn down upon them, whereof ten thouſand ſhall be Horſe, and as ma<g ref="char:EOLhyphen"/>ny Dragoons as we pleaſe: And if this Militia does nothing elſe but drive the Country, cut off their Foragers and Straglers, poſſeſs themſelves of the Defilees, and intercept Proviſions, their Ar<g ref="char:EOLhyphen"/>my
+<pb n="21" facs="tcp:50024:12"/>
+muſt be deſtroyed in a ſmall time.</p>
+               <p>Of this kind I could give many Inſtances out of Hiſtory: but becauſe Antient ones, they ſay, will not fit our purpoſe, I will give you a late one out of <hi>Ireland.</hi>
+               </p>
+               <p n="1">1ſt, I think it will be readily agreed, there are ten Men in <hi>England</hi> for one in <hi>Ireland.</hi>
+               </p>
+               <p n="2">2dly, That King <hi>William</hi> had more Engliſh and Scotch to join with him in <hi>Ireland,</hi> than the F. K. hath Malecontents in <hi>England.</hi>
+               </p>
+               <p n="3">3dly, That even our Militia have more Cou<g ref="char:EOLhyphen"/>rage than Iriſhmen. And yet tho we had eight thouſand Horſe, and above thirty thouſand Foot in <hi>Ireland,</hi> and a great part of the Country in our poſſeſſion, yet we were more than four Years in conquering the reſt, and almoſt a Miracle we did it then. And I believe no Man will deny, if we could not have ſupplied our Army from <hi>England,</hi> but they had all there periſhed; ſuch is the Ad<g ref="char:EOLhyphen"/>vantage of fighting upon one's own Dung<g ref="char:EOLhyphen"/>hil.</p>
+               <p>And to ſhew what Treatment the French are like to meet with in <hi>England,</hi> I will put you in mind of the <hi>Purbeck</hi> Invaſion, which was ſo pri<g ref="char:EOLhyphen"/>vate, that it was ſeen only by an old Man and a Boy: And yet tho the Country thought the Go<g ref="char:EOLhyphen"/>vernment againſt them, we had above forty thou<g ref="char:EOLhyphen"/>ſand Voluntiers in Arms in two or three days time, who came thither on their own accord to give them the meeting; and if they had been there, I doubt not would have given a good ac<g ref="char:EOLhyphen"/>count of them. Our Court when it was over, ſhewed their diſlike of it, and queſtioned the
+<pb n="22" facs="tcp:50024:13"/>
+Sheriff of <hi>Dorſetſhire</hi> about it. And tho we have forgot it, yet I believe the French will re<g ref="char:EOLhyphen"/>member <hi>Purbeck;</hi> for it ſhewed the true Spirit and Genius of the Engliſh Nation.</p>
+               <p>To conclude, The whole management of this Project is ridiculous; but the fatal Conſequences of it require deeper thought: For when we have fool'd our ſelves into the Bondage of a Standing Army, how ſhall we ever get out of it again? Not as the Nation freed themſelves from the Court of Wards. We cannot buy it off for two very good Reaſons: No Money will be taken for it; and we ſhall have nothing to give which is not theirs already: Our Eſtates, Lives and Liber<g ref="char:EOLhyphen"/>ties will be all at their Command. They will have the Keys of our Money, and the Titles to our Lands in their Power.</p>
+               <p>This laſt and irreparable Miſchief and Miſery the Projectors had prepared for us. But under a Gracious King and a Wiſe Parliament, I hope we ſhall never ſee it. His Majeſty's Declaration is directly againſt a Standing Army, <hi>as a means to aſſist all Arbitrary Deſigns, and thereby enſlave the Nation;</hi> directly againſt all wicked Attempts of Conqueſt, and all Deſpotick Government; 'tis full of Liberty and Property in every part: So that we are ſure to be ſafe on that ſide. And this Declaration was ſo highly valued, and ſo wholly relied upon by the Parliament, that it is incorpo<g ref="char:EOLhyphen"/>rated into our Laws as the only redreſs of our paſt Grievances and Oppreſſions, and the beſt Foun<g ref="char:EOLhyphen"/>dation of our future Happineſs: And with entire
+<pb n="23" facs="tcp:50024:13"/>
+confidence that his Majeſty would continue to act in purſuance of that Declaration, the Parlia<g ref="char:EOLhyphen"/>ment reſolved that he ſhould be, and be declared King. So that it is to be accounted the <hi>Pacta Con<g ref="char:EOLhyphen"/>venta</hi> of this Government.</p>
+               <p>Here I know the Projectors will ſay, That the Army condemned by the Declaration, was the late K. <hi>James</hi>'s Army, kept up in time of Peace without Conſent of Parliament; whereas this Standing Army is to be kept up with their Con<g ref="char:EOLhyphen"/>ſent.</p>
+               <p>True it was ſo, and therefore it was a Riot and unlawful Aſſembly every hour it ſtood; and having no Law for it, it might have been preſen<g ref="char:EOLhyphen"/>ted or indicted; to no purpoſe indeed: But as an Invaſion upon the Subject it might be reſiſted and pulled down as a Nuſance, when-ever the Nation found themſelves able. But ſuppoſe this Army had been made part of the Conſtitution, and had obtained an Act of Parliament for it, which is as much as we can have for a King or a Queen; what then had become of us? They were Aids and Inſtruments of Arbitrary Government be<g ref="char:EOLhyphen"/>fore, but then they had been legal Inſtruments, and had enſlaved us by Authority. In ſhort, we could not have relieved our ſelves from them, nor any one elſe in our behalf, becauſe our own <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct and Deed would have always been good againſt us. The delightful Notion we know his Majeſty by, is that of our Deliverer which he was upon this occaſion. But theſe miſchievous Projectors would turn it into ſuch a Deliverance, as if we
+<pb n="24" facs="tcp:50024:14"/>
+had been helpt over a Ford, to be afterwards loſt in the Sea. And as to the Parliament, we are ſafe on that ſide, for a Reaſon amongſt others which is in the <hi>Declaration</hi> in theſe words; <hi>And it can<g ref="char:EOLhyphen"/>not be imagined that thoſe who have invited us, or thoſe that have already come to aſſiſt us, will join in a wicked Deſign of Conqueſt, to make void their own Titles to their Honours, Eſtates and Intereſts.</hi>
+               </p>
+            </div>
+            <div type="postscript">
+               <pb n="25" facs="tcp:50024:14"/>
+               <head>A POSTSCRIPT, with Re<g ref="char:EOLhyphen"/>marks on a late publiſhed <hi>LIST</hi> of Iriſh Papiſts now in the French King's Service.</head>
+               <p>THE Advocates for a Standing Army having lately publiſhed a Liſt of an Army of Iriſh and other Papiſts now in the French King's Ser<g ref="char:EOLhyphen"/>vice, which they ſay are ready when called for, I could not let that Paper go without ſome Re<g ref="char:EOLhyphen"/>marks; becauſe it informs us of ſome things, that, if I miſtake not, deſerve the Conſideration of all true Engliſh Men, and are as followeth.</p>
+               <p n="1">1. That there is in <hi>France</hi> an Army of eighteen thouſand Iriſh and other Papiſts, with K. <hi>James</hi> at the Head of them.</p>
+               <p n="2">2. That they are ready to be tranſported hither when called for.</p>
+               <p n="3">3. They give broad Hints that there is a ſort of Men amongſt us, who will call for them.</p>
+               <p n="4">4. That theſe Iriſh and their Correſpondents will anſwer whatever has been or ſhall be written againſt a ſtanding Army.</p>
+               <p>To the firſt I anſwer, that tho the Iriſh are the beſt Troops in the World to plunder, murder, and maſſacre the innocent and defenceleſs People,
+<pb n="26" facs="tcp:50024:15"/>
+yet they are the worſt of all Souldiers when they meet with Reſiſtance. The late War in <hi>Ireland,</hi> particularly the Siege of <hi>London-derry,</hi> and the routing of <hi>Juſtin Maccarty,</hi> one of their beſt Offi<g ref="char:EOLhyphen"/>cers, who was at the Head of a conſiderable Ar<g ref="char:EOLhyphen"/>my, by a ſmall Number of the deſpiſed Militia, has abundantly demonſtrated this Truth. And it deſerves the Reſentment of the Engliſh Nati<g ref="char:EOLhyphen"/>on, to find the Enemies of their Country endea<g ref="char:EOLhyphen"/>vouring at laſt to fright them with that deſpica<g ref="char:EOLhyphen"/>ble Crew, when the Terror they would have given us of the French Armies has proved in<g ref="char:EOLhyphen"/>effectual. Beſides, the French King is in poſſeſſi<g ref="char:EOLhyphen"/>on of theſe Iriſh Troops; they ſerve him, and are paid by him: and no Man but a Publick <hi>Boutefeu</hi> would have the Confidence to ſay, He will lend them to King <hi>James</hi> to invade us: For what will that be leſs than declaring a new War? And they who think it in the Power of the French King to aſſiſt King <hi>James</hi> againſt us, without any Breach of the late Treaty, do in effect ſay, That due Care has not been taken of the Nation, than which there cannot be a more ſcandalous Reflection on his Majeſty.</p>
+               <p>To the ſecond and third of their Menaces I ſhall only ſay, That 'tis ſomewhat extraordinary, that Men ſhould dare publickly to avow their Correſpondence with our Enemies, to own them<g ref="char:EOLhyphen"/>ſelves acquainted with their Deſigns againſt us, to threaten the People with an Army of Iriſh <hi>Banditi,</hi> and to let us know that there are ſome a<g ref="char:EOLhyphen"/>mongſt us ready to join them. But the Great Council of the Nation being now aſſembled, will
+<pb n="27" facs="tcp:50024:15"/>
+undoubtedly make ſuch Proviſion for our Safety, that neither they nor their Correſpondents ſhall be able to hurt us.</p>
+               <p>In the laſt place they tell us, that this is an An<g ref="char:EOLhyphen"/>ſwer to <hi>the Argument againſt a Standing Army,</hi> and to all that has been or ſhall be written on that Subject. Here's thorow Work indeed: and 'tis pity it ſhould want a Place in the next Edition of the <hi>Iriſh Wiſdom.</hi> Mr. <hi>Bayes</hi>'s fighting ſingly a<g ref="char:EOLhyphen"/>gainſt whole Armies is nothing to it: For he like a modeſt Man, was only for routing ſuch as ſhould be raiſed, and never once dreamt of de<g ref="char:EOLhyphen"/>ſtroying them before they had a Being.</p>
+               <p>'Tis hoped therefore that this laſt Goblin will do us no more hurt than all the reſt that have been induſtriouſly raiſed to terrify the People, and to diſturb the Publick Peace.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
